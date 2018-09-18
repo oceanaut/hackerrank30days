@@ -1,2 +1,2 @@
 # hackerrank30days
-All work and no play makes Jack a dull boy
+https://www.hackerrank.com/domains/tutorials/30-days-of-code
