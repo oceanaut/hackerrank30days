@@ -1,4 +1,4 @@
-package day002;
+package day02;
 //https://www.hackerrank.com/challenges/30-operators/problem
 
 import java.util.Scanner;
